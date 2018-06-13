@@ -1,0 +1,1 @@
+# SharingDx11Texture
